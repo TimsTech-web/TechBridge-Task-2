@@ -40,7 +40,7 @@ a{text-decoration:none;color:inherit}
   position:relative;
   padding:100px 0 92px;
   overflow:hidden;
-  background:url('img/hero-interns.png') center/cover no-repeat;
+  background:url('hero-interns.png') center/cover no-repeat;
 }
 .hero::before{
   content:'';
