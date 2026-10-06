@@ -3,7 +3,7 @@
 const PROGRAMS = {
   'data-analytics': {
     title: 'Data Analytics',
-    img: 'img/data-analytics.png',
+    img: 'data-analytics.png',
     alt: 'Data analytics dashboard on a monitor in an office',
     duration: '30 Days',
     mode: 'Remote (Online)',
@@ -31,7 +31,7 @@ const PROGRAMS = {
   },
   'web-development': {
     title: 'Web Development',
-    img: 'img/web-dev.png',
+    img: 'web-dev.png',
     alt: 'Developer writing code on dual monitors',
     duration: '30 Days',
     mode: 'Remote (Online)',
